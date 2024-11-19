@@ -1,3 +1,4 @@
+hysteria2://GmbsiTC08t@45.129.185.135:8443?obfs=salamander&obfs-password=hG45%234fGtr54%5E66gh&insecure=1#hysteria2-8443
 hysteria2://EVijXr2ZnA@217.196.103.68:26264?obfs=salamander&obfs-password=ghjAsAQdaiwje109a&insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20(%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84-%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA)%F0%9F%90%BC
 hysteria2://EVijXr2ZnA@217.196.103.68:54525?sni=www.google.com&obfs=salamander&obfs-password=asQQdFG9182737riKKFJf&insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20(%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%D8%8C%20%D8%B4%D8%A7%D8%AA%D9%84)%F0%9F%90%BC
 hysteria2://nFLvLZlhGx@5.180.181.25:14472?obfs=salamander&obfs-password=ghjiwjeodkAD8109a&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Holand%20(%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84-%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA)%F0%9F%90%BC
