@@ -1,4 +1,4 @@
-hysteria2://GmbsiTC08t@45.129.185.135:8443?allowInsecure=1&fastopen=0&obfs=salamander&obfs-password=gFDq5%23asd21tr54%5E66gh#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%20PandaConnection%F0%9F%90%BC
+hysteria2://kn5MX6bAsE@45.129.185.135:8443?obfs=salamander&obfs-password=GHW1JB%23asd21tr5466gh&insecure=1#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%20PandaConnection%F0%9F%90%BC
 hysteria2://8CVGlwxYTD@92.118.112.95:8443?obfs=salamander&obfs-password=gQEjq%26B124qkmdQ91a&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20USA%20PandaConnection%F0%9F%90%BC
 hysteria2://EVijXr2ZnA@217.196.103.68:26264?obfs=salamander&obfs-password=ghjAsAQdaiwje109a&insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20PandaConnection%F0%9F%90%BC
 hysteria2://1I8z0QpVf6@147.45.177.84:8443?obfs=salamander&obfs-password=GFhnjmal13y61%25gfban&insecure=1#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20PandaConnection%F0%9F%90%BC
