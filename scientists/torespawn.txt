@@ -3,4 +3,5 @@ hysteria2://53wDr3rpxE@illidanse.feelingfree.pw:443?fastopen=0&insecure=1&obfs=s
 hysteria2://2fqcETnLdE@45.67.139.65:443?fastopen=0&insecure=1&obfs=salamander&obfs-password=myP4%40nDa%2330NNeclon#%F0%9F%87%AB%F0%9F%87%B7%20France%20PandaConnection%F0%9F%90%BC
 hysteria2://RZj9ANnpBz@185.237.97.125:443?fastopen=0&insecure=1&obfs=salamander&obfs-password=gAFH1yadkAD8109a#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20PandaConnection%F0%9F%90%BC
 hysteria2://nFLvLZlhGx@5.180.181.25:14472?obfs=salamander&obfs-password=ghjiwjeodkAD8109a&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Holand%20PandaConnection%F0%9F%90%BC
+hysteria2://2fqcETnLdE@45.67.139.65:39743?fastopen=0&insecure=1&obfs=salamander&obfs-password=myP4%40nDa%2330NNeclon#hysteria2-39743
 vless://c49a7adc-abdc-4a21-9f90-171698988227@lib4.feelingfree.pw:54319?type=ws&path=%2F&host=telewebion.com&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Backup%7C%D8%AF%D8%B1%20%D8%B2%D9%85%D8%A7%D9%86%20%D9%82%D8%B7%D8%B9%DB%8C%20%D9%81%D8%B9%D8%A7%D9%84%20%D9%85%DB%8C%D8%B4%D9%88%D8%AF
